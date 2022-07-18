@@ -19,7 +19,7 @@ This is an application you can use to add team members using node
 run node index.js in your terminal
 
   ## Usage
-![hippo](https://raw.githubusercontent.com/cnl-95/README-Generator/main/recording/Animation.gif)
+![hippo](https://github.com/cnl-95/Team-Profile-Generator/blob/main/recording/Animation.gif?raw=true)
 
   ## License
   This project is licensed under the MIT license.
