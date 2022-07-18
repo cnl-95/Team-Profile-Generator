@@ -4,26 +4,27 @@
     "description": "## Your Task",
     "main": "index.js",
     "directories": {
-      "lib": "lib",
-      "test": "tests"
+        "lib": "lib",
+        "test": "tests"
     },
     "dependencies": {
-      "inquirer": "^8.1.0"
+        "inquirer": "^8.1.0",
+        "node": "^18.5.0"
     },
     "devDependencies": {
-      "jest": "^27.0.4"
+        "jest": "^27.0.4"
     },
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thompsonel11/Team_Profile_Generator.git"
+        "type": "git",
+        "url": "git+https://github.com/thompsonel11/Team_Profile_Generator.git"
     },
     "author": "Liz Thompson",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/thompsonel11/Team_Profile_Generator/issues"
+        "url": "https://github.com/thompsonel11/Team_Profile_Generator/issues"
     },
     "homepage": "https://github.com/thompsonel11/Team_Profile_Generator#readme"
-  }
+}
