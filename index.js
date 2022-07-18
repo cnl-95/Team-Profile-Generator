@@ -147,7 +147,7 @@ const buildHtml = () => {
     </head>
     <body>
         <header class = "myTeam">
-            <div class = "container text-center bg-gradient bg-danger text-white">
+            <div class = "container text-center bg-gradient bg-info text-white">
                 <h1>My Team</h1>
             </div>
         </header>
