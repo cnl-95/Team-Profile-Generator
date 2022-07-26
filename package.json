@@ -19,12 +19,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/thompsonel11/Team_Profile_Generator.git"
+        "url": ""
     },
-    "author": "Liz Thompson",
+    "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/thompsonel11/Team_Profile_Generator/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/thompsonel11/Team_Profile_Generator#readme"
+    "homepage": ""
 }
