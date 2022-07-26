@@ -20,6 +20,7 @@ run node index.js in your terminal
 
   ## Usage
 ![hippo](https://github.com/cnl-95/Team-Profile-Generator/blob/main/recording/Animation.gif?raw=true)
+![Screen Shot](https://raw.githubusercontent.com/cnl-95/Team-Profile-Generator/main/recording/Screenshot%202022-07-18%20024937.png)
 
   ## License
   This project is licensed under the MIT license.
